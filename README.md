@@ -1,4 +1,4 @@
-# Hi, I'm YOUR NAME 👋
+# Hi, I'm Measam Raza 👋
 
 ### Electrical Engineering Student @ NUST
 
