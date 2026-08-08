@@ -184,6 +184,16 @@ I'm interested in collaborating on projects involving:
 
 **Embedded Systems • Robotics • UAVs • Electronics • IoT • Research**
 
+📧 Email: measamraza19@gmail.com
+
+🔗 LinkedIn: [My LinkedIn](www.linkedin.com/in/measam-raza-2080233a9)
+
+💻 GitHub: [@Measam-Raza](https://github.com/Measam-Raza)
+
+I'm interested in collaborating on projects involving:
+
+**Embedded Systems • Robotics • UAVs • Electronics • IoT • Research**
+
 ---
 
 ⭐ If you find one of my projects interesting, feel free to explore the repository!
